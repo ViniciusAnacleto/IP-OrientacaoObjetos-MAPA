@@ -1,0 +1,1 @@
+Olá, coloquei todos os códigos organizados neste repositório por motivos de: muitas linhas de códigos para colocar abaixo de cada print ou no final do arquivo, então julguei que aqui poderia ficar melhor organizado. 
